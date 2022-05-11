@@ -1,0 +1,8 @@
+- Project Scope
+	- Number of Phases
+	- In-scope
+	- Outscope
+	- High-level architecture
+	- To-be architeture
+	- Timelines
+	- Appendix
